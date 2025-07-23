@@ -246,11 +246,11 @@ body {
 }
 
 .cat-content .card:nth-child(1) {
-  background: url(./assets/imgs/Tops_1.png);
+  background: url(https://github.com/m07amed25/Seller-list-ui/blob/c8e113d07cb538e18f03f3a58d3dc53c325688af/assets/imgs/Tops_1.png);
   background-blend-mode: darken;
 }
 .cat-content .card:nth-child(2) {
-  background: url(./assets/imgs/Bottoms_1.png);
+  background: url(https://github.com/m07amed25/Seller-list-ui/blob/c8e113d07cb538e18f03f3a58d3dc53c325688af/assets/imgs/Bottoms_1.png);
 }
 .cat-content .card:nth-child(3) {
   background: url(./assets/imgs/Shoes_1.png);
