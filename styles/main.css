@@ -246,20 +246,20 @@ body {
 }
 
 .cat-content .card:nth-child(1) {
-  background: url(/assets/imgs/Tops_1.png);
+  background: url(./assets/imgs/Tops_1.png);
   background-blend-mode: darken;
 }
 .cat-content .card:nth-child(2) {
-  background: url(/assets/imgs/Bottoms_1.png);
+  background: url(./assets/imgs/Bottoms_1.png);
 }
 .cat-content .card:nth-child(3) {
-  background: url(/assets/imgs/Shoes_1.png);
+  background: url(./assets/imgs/Shoes_1.png);
 }
 .cat-content .card:nth-child(4) {
-  background: url(/assets/imgs/Swimwear_1.png);
+  background: url(./assets/imgs/Swimwear_1.png);
 }
 .cat-content .card:nth-child(5) {
-  background: url(/assets/imgs/UnderWears_1.png);
+  background: url(./assets/imgs/UnderWears_1.png);
 }
 
 .liked {
